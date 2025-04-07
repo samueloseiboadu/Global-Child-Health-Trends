@@ -112,31 +112,31 @@ Based on the insights derived from the data analysis, the following recommendati
 
 1.	Target High-Burden Regions: 
 
-*	Prioritize Sub-Saharan Africa with increased resources.
+-	Prioritize Sub-Saharan Africa with increased resources.
 
-* Enhance healthcare infrastructure, train personnel, and distribute preventive tools (e.g., bed nets, sanitation kits).
+- Enhance healthcare infrastructure, train personnel, and distribute preventive tools (e.g., bed nets, sanitation kits).
 
 2.	Support Economic Development: 
 
-*	Strengthen health systems through economic growth in low-income countries.
+-	Strengthen health systems through economic growth in low-income countries.
 
-*Invest in education, infrastructure, and employment opportunities.
+- Invest in education, infrastructure, and employment opportunities.
 
 3.	Enhance Disease Surveillance: 
 
-o	Improve monitoring to enable rapid response.
+-	Improve monitoring to enable rapid response.
 
-* Deploy real-time outbreak tracking and regular health surveys.
+- Deploy real-time outbreak tracking and regular health surveys.
 
 4.	Prioritize Malaria Interventions: 
 
-o	Address areas with high malaria prevalence.
+-	Address areas with high malaria prevalence.
 
-* Expand access to antimalarials and insecticide-treated nets.
+- Expand access to antimalarials and insecticide-treated nets.
 
 5.	Expand Treatment Access: 
 
-o	Ensure comprehensive care for all affected children.
+-	Ensure comprehensive care for all affected children.
 
-* Scale up health campaigns, fund treatment programs, and utilize technology for remote care.
+- Scale up health campaigns, fund treatment programs, and utilize technology for remote care.
 
