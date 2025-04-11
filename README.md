@@ -40,9 +40,9 @@ This dataset facilitates multidimensional analysis across time, geography, and e
 ### Executive Summary
 Analysis of the dataset from 1999 to 2024 reveals critical trends in child malaria and diarrhoea:
 
-•	Total Cases: Just over 411,000 reported cases, with malaria comprising 219,000 cases slightly more prevalent than diarrhoea 192,000.
+•	Total Cases: Approximately 600,000 reported cases, with malaria comprising 219,000 cases slightly more prevalent than diarrhoea 192,000.
 
-•	Average Annual Cases: The average number of cases per year is around 16,000, a figure that has declined steadily over the last two decades.
+•	Average Annual Cases: The average number of cases per year is around 40,000.
 
 •	Regional Disparities: : Most of the disease burden falls on Eastern and Southern Africa (ESARO), which recorded nearly 180,000 cases far more than any other region.
 
