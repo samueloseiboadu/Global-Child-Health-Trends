@@ -1,6 +1,6 @@
 # Fighting Child Malaria and Diarrhoea: Unveiling Data for Smarter Health
 
-![Image](https://github.com/user-attachments/assets/91d43931-0e9d-4e86-9781-7748506f0d15)
+![Image](https://github.com/user-attachments/assets/48b6e964-f6bf-4c6e-bd83-8bde58a3f173)
 
 Childhood malaria and diarrhoea remain pressing public health challenges, particularly in low- and middle-income countries, where they rank among the leading causes of mortality for children under five. This project harnesses the "Child Malaria and Diarrhoea Dataset," provided by UNICEF and spanning 1999 to 2024, to deliver actionable insights for policymakers and health organizations. By analyzing trends, identifying high-risk regions, and proposing evidence-based solutions, this work aims to support global efforts to reduce child mortality.
 
