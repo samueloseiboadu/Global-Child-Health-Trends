@@ -40,13 +40,15 @@ This dataset facilitates multidimensional analysis across time, geography, and e
 ### Executive Summary
 Analysis of the dataset from 1999 to 2024 reveals critical trends in child malaria and diarrhoea:
 
-•	Total Cases: Approximately 1.22 million cases, with malaria comprising 491,810 and diarrhoea 356,620.
+•	Total Cases: Just over 411,000 reported cases, with malaria comprising 219,000 cases slightly more prevalent than diarrhoea 192,000.
 
-•	Average Annual Cases: 37,710 cases per year, underscoring a persistent public health burden.
+•	Average Annual Cases: The average number of cases per year is around 16,000, a figure that has declined steadily over the last two decades.
 
-•	Regional Disparities: Sub-Saharan Africa accounts for 65% of cases, highlighting significant geographical inequities.
+•	Regional Disparities: : Most of the disease burden falls on Eastern and Southern Africa (ESARO), which recorded nearly 180,000 cases far more than any other region.
 
-•	Economic Correlation: Low-income countries exhibit markedly higher case rates, linking socioeconomic conditions to health outcomes.
+•	Economic Influence: Low-income and lower-middle-income countries account for the majority of all reported cases, showing how economic context continues to shape health outcomes.
+
+•	Treatment Coverage: Access to treatment has improved over time, though coverage still lags, especially for malaria.
 
 These findings emphasize the ongoing need for targeted health interventions and resource allocation to combat child mortality due to malaria and diarrhoea, particularly in economically disadvantaged regions.
 
@@ -56,55 +58,39 @@ The following insights, grounded in data, provide a foundation for strategic dec
 
 #### Insight 1: Regional Disease Burden
 
-•	Finding: Sub-Saharan Africa represents ~65% of total cases, exceeding 793,000 over 25 years.
+•	Finding: The ESARO region—covering Eastern and Southern Africa—makes up the largest share of both malaria and diarrhoea cases, totaling around 180,000 over 25 years.
 
-•	Significance: This region faces acute healthcare and resource challenges.
+•	Why it Matters: This region consistently struggles with access to quality healthcare and resources, and the data clearly reflects that challenge.
 
-•	Trend: Case numbers remain elevated despite global efforts.
-
-•	Implication: Enhanced, sustained interventions are essential to address this disparity.
+•	Implication: Efforts to reduce child mortality should be prioritized in this region with tailored, long-term strategies.
 
 #### Insight 2: Economic Status and Disease Prevalence
 
-•  Finding: Lower-middle-income countries reported the highest incidence, with 240,500 malaria cases and 186,990 diarrhoea cases, followed by low-income countries with 218,780 malaria 
-and 94,620 diarrhoea cases. 
+•  Finding: Lower-income countries reported the highest incidence, with 108,000 malaria cases and 46,000 diarrhoea cases, followed by lower-middle-income countries with 86,000 malaria 
+and 92,000 diarrhoea cases. 
 
-•  Significance: Economic disadvantage drives higher disease prevalence, particularly in Sub-Saharan Africa, where most of these countries are located. 
+•  Why it Matters: Health outcomes remain closely tied to a country's economic status. Lower-income countries face more cases and often have weaker health systems.
 
-•  Trend: Over 25 years, lower-middle- and low-income countries consistently show higher case numbers. 
-
-•  Implication: Economic development and region-specific interventions in Sub-Saharan Africa are critical to reduce this burden.
+•  Implication: Improving child health means not just treating disease—but also investing in the economies of affected countries.Economic development and region-specific interventions in such places are critical to reduce this burden.
 
 #### Insight 3: Malaria vs. Diarrhoea Distribution
 
 •	Finding: Malaria accounts for 58% of cases, diarrhoea 42%.
 
-•	Significance: Malaria poses a greater relative challenge in this dataset.
+•	Significance: Both diseases are serious, but malaria appears to be the more dominant threat overall.
 
 •	Trend: Malaria peaked in the early 2000s; diarrhoea declined post-2010.
 
-•	Implication: Tailored strategies are needed, with a priority on malaria in certain contexts.
+•	Implication: While interventions must tackle both illnesses, malaria control should remain a high priority in policy and funding..
 
-#### Insight 4: Temporal Trends
 
-•	Finding: Annual cases dropped from over 60,000 in the early 2000s to ~30,000 by 2024.
+#### Insight 4: Treatment Coverage
 
-•	Significance: This reduction reflects progress in health interventions.
+•	Finding: Although treatment access has improved since 2000, malaria treatment coverage remains under 60% in most years. Diarrhoea treatment follows a similar trend..
 
-•	Trend: The decline aligns with global disease control initiatives.
+•	Significance: Low coverage means many children still don’t receive timely care, leaving them vulnerable to health complications or death.
 
-•	Implication: Ongoing investment can further diminish prevalence.
-
-#### Insight 5: Treatment Coverage
-
-•	Finding: Coverage rose from 40% in 1999 to 70% by 2024.
-
-•	Significance: Improved access correlates with reduced cases.
-
-•	Trend: Steady improvements reflect effective public health strategies.
-
-•	Implication: Expanding coverage remains a priority for sustained impact.
-
+•	Implication: Expanding treatment programs especially in hard-to-reach communities must be a central part of the response.
 
 ### Recommendation
 
